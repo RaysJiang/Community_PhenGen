@@ -59,7 +59,7 @@ HIPPA compliance is satisfied by:
 [Presentation: Learn more](https://docs.google.com/presentation/d/1AcBlLJ51WDNSG8RY25YOSZpFn9xUOBcb2t6nJCRqMwk/edit?usp=sharing)
 
 ### Members:
-Rays Jiang - [ray-jiang](https://github.com/ray-jiang) - Jiang2@health.usf.edu 
+Rays Jiang - [raysjiang](https://github.com/raysjiang) - Jiang2@health.usf.edu 
 
 Renee Fonseca - [reneemf](https://github.com/reneemf) - reneefonseca@mail.usf.com
 
